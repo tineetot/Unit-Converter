@@ -23,7 +23,7 @@ Building this helped me master:
 
 ## 🛠️ Tech Stack
 * **HTML:** Semantic structure for the conversion cards and input header.
-* **CS3:** Custom aesthetic featuring the `#6943FF` Purple palette, Google Fonts (Verdana), and subtle box-shadows.
+* **CSS:** Custom aesthetic featuring the `#6943FF` Purple palette, Google Fonts (Verdana), and subtle box-shadows.
 * **JavaScript:** Logic for calculations, template literals, and event listeners.
 
 ---
